@@ -21,3 +21,50 @@ DevOps Specialist passionate about AI and data science, with extensive experienc
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+# Hi there, I'm Morningstar-47 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=morningstar-47&color=blue)
+
+## About Me
+- 🌱 I’m currently learning **Full Stack Development**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🤔 I’m looking for help with **Advanced JavaScript Concepts**
+- 💬 Ask me about **JavaScript, Python, and Web Development**
+- 📫 How to reach me: [morningstar47@example.com](mailto:morningstar47@example.com)
+
+## My Skills
+- **Programming Languages:**
+  - JavaScript
+  - Python
+  - HTML & CSS
+
+- **Frameworks & Libraries:**
+  - React
+  - Node.js
+  - Express.js
+  - Django
+
+- **Tools & Platforms:**
+  - Git & GitHub
+  - Visual Studio Code
+  - Docker
+
+## GitHub Stats
+![Morningstar-47's GitHub Stats](https://github-readme-stats.vercel.app/api?username=morningstar-47&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=morningstar-47&layout=compact&theme=radical)
+
+## Projects
+Here are some of my notable projects:
+
+- [**Project Name 1**](https://github.com/morningstar-47/project1) - Brief description of what the project is about.
+- [**Project Name 2**](https://github.com/morningstar-47/project2) - Brief description of what the project is about.
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/morningstar-47)
+- [Twitter](https://twitter.com/morningstar_47)
+
+Thank you for visiting my profile! 😊
