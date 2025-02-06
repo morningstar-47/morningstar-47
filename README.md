@@ -12,6 +12,7 @@
 ---
 
 ## 🌐 Socials:
+[![My-resume](https://img.shields.io/badge/Portfolio-12100E)](https://me-tau-dun.vercel.app)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nF9DenrD) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jce-mopeno-bia) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mopenobiaclaude) 
