@@ -57,22 +57,6 @@
 
 ---
 
-## 🚀 Projects:
-Here are some of my notable projects:
-
-- [**Project Name 1**](https://github.com/morningstar-47/project1) - A brief description of what the project is about and its impact.
-- [**Project Name 2**](https://github.com/morningstar-47/project2) - A brief description of what the project is about and its impact.
-- [**Project Name 3**](https://github.com/morningstar-47/project3) - A brief description of what the project is about and its impact.
-
----
-
-## 📫 Let's Connect!
-- 💬 **Ask me about:** JavaScript, Python, Web Development, DevOps, or AI.
-- 📧 **Email:** [mopenobiaclaude@gmail.com](mailto:mopenobiaclaude@gmail.com)
-- 🔗 **LinkedIn:** [Claude Emmanuel Mopeno Bia](https://linkedin.com/in/jce-mopeno-bia)
-
----
-
 ## 🌱 Currently Learning:
 - Advanced JavaScript Concepts
 - Machine Learning with Python
