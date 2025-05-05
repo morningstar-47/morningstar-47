@@ -2,12 +2,10 @@
 **claude-morningstar47/claude-morningstar47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# 💫 About Me:
-👋 Hi, I'm **Morningstar-47** (J.Claude Emmanuel Mopeno-Bia)  
-🚀 **DevOps Specialist** passionate about **AI** and **Data Science**  
-💻 Experienced in **web and mobile app development** with a focus on **Next.js**  
-🔧 I thrive in dynamic environments, leveraging cutting-edge tools to drive innovative solutions and improve system efficiency.  
-🌟 Always eager to learn, collaborate, and contribute to impactful projects!
+## 👨‍💻 About Me 
+DevOps specialist with expertise in web development and a strong interest in AI/Data Science.
+I focus on building efficient, scalable systems and applications using modern technologies.
+My background combines technical expertise with a collaborative approach to problem-solving.
 
 ---
 
