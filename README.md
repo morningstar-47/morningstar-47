@@ -28,8 +28,6 @@ I'm a DevOps engineer passionate about artificial intelligence, data science, an
 ### 📫 Let's connect
 
 - 🌐 [Portfolio](https://me-tau-dun.vercel.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/morningstar-47/)
-- 🐦 [Twitter/X](https://x.com/morningstar_47)
 
 ---
 
