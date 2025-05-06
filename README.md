@@ -2,16 +2,36 @@
 **morningstar-47/morningstar-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Meet Emmanuel Mopeno-Bia Dev
+# 👋 Hello, I'm Morningstar
 
-## Software Engineer & DevOps specialist, AI/Data Science @ThePlumUp - Your Software Developer & Fitness Boy 💪
-DevOps specialist with expertise in web development and a strong interest in AI/Data Science.
-I focus on building efficient, scalable systems and applications using modern technologies.
-My background combines technical expertise with a collaborative approach to problem-solving.
+## 🧠 DevOps | 🧩 AI Enthusiast | 🌐 Web Developer
 
-### Let's Connect
-**The Plum Up!** *Creating Webs & Apps for Creative Humans* 😊
+I'm a DevOps engineer passionate about artificial intelligence, data science, and building robust backend systems. I love automating things, working with cloud-native technologies, and crafting elegant software solutions.
 
-- VSCode Theme, Devfolio or a Cool Project? Dm me!
-- Looking forward to creating amazing things together! 🌟
+### 🚀 What I do
+
+- 🔧 **DevOps & Cloud Engineering**  
+  CI/CD · Docker · Kubernetes · GitHub Actions · AWS
+
+- 🤖 **AI / Data Science Projects**  
+  NLP · Computer Vision · Predictive Modeling · Python · Jupyter
+
+- 🌍 **Full-Stack & API Development**  
+  Node.js · React · Express · MongoDB · REST & GraphQL APIs
+
+### 📌 Featured Projects
+
+- [GoASQ](https://github.com/morningstar-47/GoASQ) — Dynamic security questionnaire system  
+- [morningstar-mcp-server](https://github.com/morningstar-47/morningstar-mcp-server) — Microservices Control Panel  
+- [kafka-offset-monitor](https://github.com/morningstar-47/kafka-offset-monitor) — Kafka consumer offset dashboard in Scala
+
+### 📫 Let's connect
+
+- 🌐 [Portfolio](https://me-tau-dun.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/morningstar-47/)
+- 🐦 [Twitter/X](https://x.com/morningstar_47)
+
+---
+
+_“Code is read more than it is written — I strive to make it beautiful.”_
 
