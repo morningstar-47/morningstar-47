@@ -14,7 +14,7 @@ I'm a DevOps engineer passionate about artificial intelligence, data science, an
   CI/CD · Docker · Kubernetes · GitHub Actions · AWS
 
 - **AI / Data Science Projects**  
-  NLP · Computer Vision · Predictive Modeling · Python · Jupyter
+  NLP · Computer Vision · Predictive Modeling · Python · Jupyter · RAG
 
 - **Full-Stack & API Development**  
   Node.js · React · Express · MongoDB · REST & GraphQL APIs
@@ -27,7 +27,7 @@ I'm a DevOps engineer passionate about artificial intelligence, data science, an
 
 ### Let's connect
 
-- [Portfolio](https://me-tau-dun.vercel.app)
+- [Portfolio](https://mopeno-portfolio.vercel.app)
 
 ---
 
